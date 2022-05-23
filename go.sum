@@ -1,0 +1,4 @@
+github.com/google/uuid v1.3.0 h1:t6JiXgmwXMjEs8VusXIJk2BXHsn+wx8BZdTaoZ5fu7I=
+github.com/google/uuid v1.3.0/go.mod h1:TIyPZe4MgqvfeYDBFedMoGGpEw/LqOeaOT+nhxU+yHo=
+github.com/wenzhenxi/gorsa v0.0.0-20220418014903-15feec0f05a6 h1:Muo1GrvVXmbaV47fqKuVLupQSdEoLT6wQOxfgY8BumQ=
+github.com/wenzhenxi/gorsa v0.0.0-20220418014903-15feec0f05a6/go.mod h1:nfhBTKji6rC8lrjyikx8NJ85JHg6ZQam0a9Je+2RVOg=
